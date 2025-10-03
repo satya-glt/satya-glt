@@ -1,9 +1,8 @@
 ## Hi, I'm Satya
 
 💻​ Computer science student at Sup de Vinci</br> 
-🕹️​ Game developper coding in C#</br>
-🐧​ Linux enjoyer</br> 
-🤓​ I use arch, btw</br> 
+🕹️​ Game dev coding in C#</br>
+🐧​ Linux enjoyer</br>  
 
 
 # 💻 Tech Stack:
